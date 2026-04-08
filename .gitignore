@@ -39,3 +39,7 @@ src-tauri/gen/android/.gradle/
 keystore/
 *.jks
 keystore.properties
+
+# keystore - never commit
+keystore/
+*.jks
