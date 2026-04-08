@@ -34,3 +34,8 @@ src-tauri/gen/android/.gradle/
 # Env
 .env
 .env.*
+
+# Keystore - NEVER commit
+keystore/
+*.jks
+keystore.properties
